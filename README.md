@@ -1,5 +1,5 @@
 # 👋 Hi, my name is **Daniel**
-### I'm a Senior Data Scientist at Garage Eight and Co-Founder/Tech Lead at P-project
+### I'm a ML Engineer at Garage Eight and Co-Founder/Tech Lead at P-project
 
 
 - ✉️ I'm always open to interesting suggestions
