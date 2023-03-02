@@ -3,7 +3,7 @@
 
 
 - ✉️ I'm always open to interesting suggestions
-- 📫 How to reach me [telegram](https://t.me/daniechsh) , dchshebentovskiy@gmail.com, [LinkedIn](https://www.linkedin.com/in/daniel-chsh/)
+- 📫 How to reach me [telegram](https://t.me/danielchsh) , dchshebentovskiy@gmail.com, [LinkedIn](https://www.linkedin.com/in/daniel-chsh/)
 
 > I like to dive into a business problem and get to the bottom of it, find patterns and solve the problem. I track and explore new approaches, try to put them into practice and implement them into existing infrastructure. I am a member of the Open Data Science community. I develop a community of data scientists in a company and sometimes give lectures.
  
